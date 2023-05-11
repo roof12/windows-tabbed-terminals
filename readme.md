@@ -1,4 +1,4 @@
-# Terminals
+# Windows Tabbed Terminals
 
 To add it to the taskbar:
 
